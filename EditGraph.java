@@ -3,6 +3,10 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+/**
+ * 백준 1432번 그래프 수정
+ * author : MoonDooo
+ */
 public class Main {
     public static void main(String[] args) {
         new EditGraph();
